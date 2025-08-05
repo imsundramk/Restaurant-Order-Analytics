@@ -77,7 +77,7 @@ This dashboard provides a visual summary of restaurant order trends using a data
 
 **Sundram Kumar**  
 Email: [sundramnld@gmail.com](mailto:sundramnld@gmail.com)  
-LinkedIn: [www.linkedin.com/in/imsundram](https://www.linkedin.com/in/imsundram)
+LinkedIn: [www.linkedin.com/in/imsundram](https://www.linkedin.com/in/imsundramk)
 
 ---
 
